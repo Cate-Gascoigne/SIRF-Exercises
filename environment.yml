@@ -12,7 +12,6 @@ dependencies:
   - nodejs
   - numpy
   - cil # make synergistic notebooks work
-  - astra-toolbox # needed for ct examples
   - scipy
   - matplotlib
   - numba
